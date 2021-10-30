@@ -1,7 +1,7 @@
 # navbar
 Bootstrap navbar snippet
 
-~~~
+~~~html
 <!-- Navbar Start -->
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
 <div class="container-fluid">
